@@ -4,7 +4,7 @@
 
 1. Email
 2. Fill out a form
-3. Phone
+3. Phone number
 4. Whatsapp
 
 ## Requirements
